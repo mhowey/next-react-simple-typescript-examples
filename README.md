@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 To demonstrate various simple use-cases of TypeScript with NEXT.js and React.
 
+This project is deployed [on Vercel here](https://next-react-simple-typescript-examples.vercel.app/).
+
 ## Getting Started
 
 First, run the development server:
